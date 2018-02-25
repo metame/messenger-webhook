@@ -1,4 +1,5 @@
 node_modules
+*-priv
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
